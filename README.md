@@ -1,8 +1,24 @@
-# PROJECTS
-REAL WORLD PROJECT
+# 🐍 Snake Game
+
+A simple Snake game built with [ e.g., Python + Pygame / JavaScript + HTML Canvas].
+
+---
+
+## 🎮 Features
+- Classic snake gameplay
+- Score tracking
+- Game-over screen
+- Easy to run locally
+
+---
+
+## 🚀 How to Run
+1. Clone this repository:
+   ```bash
+   git clone https://github.com/your-username/snake-game.git
+   cd snake-game
 
 
+## 📸 Output / Screenshots
 
-leetcode stat card
-
-![LeetCode Stats](https://leetcard.jacoblin.cool/anujdiwakar_pro?theme=dark&font=Roboto)
+![Snake Game Screenshot](snake_output.png)
