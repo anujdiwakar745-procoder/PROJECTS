@@ -13,7 +13,7 @@ lyrics=[
     "Uss Din Tu Chup Chap Rahe Tujhe Jis Din Kuch Na Kahe Na Sune" 
     "Uss Din Tu Chup Chap Rahe Tujhe Jis Din Kuch Na Kahe Na Sune"
 ]
-timings=[0.9, 0.9, 1.2, 1.5]
+timings=[0.9, 0.9, 1.2, 1.5,1.8]
 
 typing_speed = 0.05
 
